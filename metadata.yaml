@@ -1,0 +1,27 @@
+_repo: The-Chemistry-of-Plant-Life_33394
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thatcher, Roscoe Wilfred
+    birthdate: 1872
+    deathdate: 1933
+    gutenberg_agent_id: '36380'
+    url: http://www.gutenberg.org/2009/agents/36380
+description: ''
+gutenberg_issued: '2010-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33394'
+  lccn: '21000991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Botanical chemistry'
+title: The Chemistry of Plant Life
+url: http://www.gutenberg.org/ebooks/33394
